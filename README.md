@@ -21,8 +21,6 @@ The objective is to fork this repository, complete the tasks, upload the solutio
 You are given a list representing the amount of money in each house.  
 You must compute the **maximum amount** that can be robbed without robbing two adjacent houses.
 
-This task requires understanding of dynamic programming and optimal substructure.
-
 ---
 
 ### **Task 2 - Algorithm Implementation**
